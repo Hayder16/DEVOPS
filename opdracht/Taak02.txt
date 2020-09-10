@@ -1,0 +1,5 @@
+A: Activity bar
+B: Side bar
+C: Editor groups
+D: Panel
+E: Status bar
